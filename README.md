@@ -11,7 +11,7 @@
 <img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/0c63de38-e96e-46b6-9f38-2049ef8e67bc" />
 
 
-
+<img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/38fd6467-42bd-4200-8a82-18b4458cbf0f" />
 Repeat customers: 7,000 accounts, more evenly split—2.6k low-value, 2.6k mid-value, 1.7k high-value.
 
 Repeat buyers tend to spend more per purchase.
