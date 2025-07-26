@@ -38,12 +38,10 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 
 ### Features
 
-- Track customer-level KPIs: revenue, profit, order value, and repeat behavior.
-
-- Segment customers by value tiers (Low, Medium, High) and purchase behavior (One-Time vs. Repeat).
-
-- Analyze churn and repeat rate trends over time.
-- Identify top customers and their order behaviors.
+- Track customer-level KPIs: revenue, profit, order value, and repeat behavior
+- Segment customers by value tiers (Low, Medium, High) and purchase behavior (One-Time vs. Repeat)
+- Analyze churn and repeat rate trends over time
+- Identify top customers and their order behaviors
 - Visualize cumulative customer growth over the fiscal period
 
 ### Insights
