@@ -33,11 +33,23 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 
 
 <img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/38fd6467-42bd-4200-8a82-18b4458cbf0f" />
+
+Features:
+
+Track customer-level KPIs: revenue, profit, order value, and repeat behavior.
+
+Segment customers by value tiers (Low, Medium, High) and purchase behavior (One-Time vs. Repeat).
+
+Analyze churn and repeat rate trends over time.
+
+Identify top customers and their order behaviors.
+
+Visualize cumulative customer growth over the fiscal period
 Repeat customers: 7,000 accounts, more evenly split—2.6k low-value, 2.6k mid-value, 1.7k high-value.
+
+Insights: 
 
 Repeat buyers tend to spend more per purchase.
 Monthly unique customers hover around 1.5–2.2k, with a cumulative total of about 20k by June—suggesting retention is steady.
-
-Boost Repeat Purchases With a strong baseline, further elevate via:
-Loyalty programs and incentives
+Boost Repeat Purchasese via loyalty programs and incentives
 Personalised high-value campaigns
