@@ -33,7 +33,9 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 
 
 <img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/38fd6467-42bd-4200-8a82-18b4458cbf0f" />
+
 ##****Customer Details Analysis
+
 ### ****Features:
 
 Track customer-level KPIs: revenue, profit, order value, and repeat behavior.
