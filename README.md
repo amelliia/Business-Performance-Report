@@ -6,10 +6,10 @@
 
 ### Features
 - Track key performance indicators (KPIs) for gross profit, sales, orders, and profit margin
-- Compare gross profit, sales and order volume across sales channels, countries and categories
+- Compare sales, gross profit, and order volume across different sales channels, countries, and product categories
 - Analyze country-wise and product-category-wise profit trends
 - Identify high- and low-performing orders and time periods
-- Show Year-Over-Year change
+- Display year-over-year (YoY) changes to track growth and performance trends over time
 
 ### Insights
 - Top-performing countries in terms of gross profit growth include the United States (+$520K) and Australia (+$620K)
