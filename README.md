@@ -45,8 +45,8 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 - Visualize cumulative customer growth over the fiscal period
 
 ### Insights
-- Majority of customers are low-value and one-time buyers. Repeat buyers tend to spend more per purchase. Focus on converting them to repeat buyers with loyalty programs or personalized offers.
-- Revenue per customer is relatively high ($2,945), but gross profit per customer is low ($329.69), meaning margins are thin (~11.2%) which may imply high cost of goods sold (COGS)
-- Monthly unique customers hover around 1.5–2.2k, with a cumulative total of about 20k by June—suggesting retention is steady.
-- Cumulative Customers consistently increased, indicating steady acquisition.
-- Total Customers show some fluctuation, possibly due to churn and seasonal changes.
+- Majority of customers are low-value and one-time buyers. Repeat buyers tend to spend more per purchase. Focus on converting them to repeat buyers with loyalty programs or personalized offers
+- Revenue per customer is relatively high ($2,945), but gross profit per customer is low ($329.69), meaning margins are thin (11.19%) which imply high cost of goods sold (COGS)
+- Monthly unique customers hover around 1.5–2.2k, with a cumulative total of about 20k by June—suggesting retention is steady
+- Cumulative Customers consistently increased, indicating steady acquisition
+- Total Customers show some fluctuation, possibly due to churn and seasonal changes
