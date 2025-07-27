@@ -45,5 +45,5 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 - Visualize cumulative customer growth over the fiscal period
 
 ### Insights
--Repeat buyers tend to spend more per purchase - Boost Repeat Purchasese via loyalty programs and incentives. Personalised high-value campaigns.
--Monthly unique customers hover around 1.5–2.2k, with a cumulative total of about 20k by June—suggesting retention is steady.
+- Repeat buyers tend to spend more per purchase - Boost Repeat Purchasese via loyalty programs and incentives. Personalised high-value campaigns.
+- Monthly unique customers hover around 1.5–2.2k, with a cumulative total of about 20k by June—suggesting retention is steady.
