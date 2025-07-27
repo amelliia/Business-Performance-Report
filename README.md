@@ -45,5 +45,14 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 - Visualize cumulative customer growth over the fiscal period
 
 ### Insights
-- Repeat buyers tend to spend more per purchase. Boost Repeat Purchasese via loyalty programs and incentives. Personalised high-value campaigns.
+- Majority of customers are low-value and one-time buyers. Repeat buyers tend to spend more per purchase. Focus on converting them to repeat buyers with loyalty programs or personalized offers.
+-  Boost Repeat Purchasese via loyalty programs and incentives. Personalised high-value campaigns.
 - Monthly unique customers hover around 1.5–2.2k, with a cumulative total of about 20k by June—suggesting retention is steady.
+- Cumulative Customers consistently increased, indicating steady acquisition.
+- Total Customers show some fluctuation, possibly due to churn and seasonal changes.
+- Revenue per customer is relatively high ($2,945), but gross profit per customer is low ($329.69), meaning margins are thin (~11.2%).
+This may imply:
+High cost of goods sold (COGS)
+Strategic focus needed to:
+Upsell low-tier customers
+Reward mid-tier to push into high-value segments
