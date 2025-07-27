@@ -2,7 +2,6 @@
 
 <img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/75f1d6bc-13be-42bd-84a1-1a847b2b0492" />
 
-## Adventure Works Dashboard Overview
 
 ### Features
 - Track key performance indicators (KPIs) for gross profit, sales, orders, and profit margin
