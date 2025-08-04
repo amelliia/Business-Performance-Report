@@ -18,7 +18,16 @@ This growth was largely driven by the Internet sales channel, which saw a $3.93M
 Negative profit orders such as SOS1131 and SOS51858 highlight pricing or cost issues and should be reviewed.
 Gross profit saw a dip from July to September, with recovery beginning in October and peaking in May 2020.
 
-## Customer Detail Analysis
+## Product Performance
+![](Prod_GIF.gif)
+### Features 
+-
+-
+-
+### Insights 
+
+
+## Customer Detail
 <img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/57f97a37-5981-4365-af09-2301010552cd" />
 
 ### Features
