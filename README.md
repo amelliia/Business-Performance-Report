@@ -30,8 +30,7 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 - Highlight products with declining performance
 
 ### Insights 
-- Accessories saw the most significant growth (+1163.92% YoY in gross profit), suggesting recent demand or pricing optimization
-- Components experienced a steep decline (-38.21%), signaling potential supply chain issues, pricing problems, or obsolescence
+- Accessories saw the most significant growth (+1163.92% YoY in gross profit)and components experienced a steep decline (-38.21%)
 - Products in the Touring-1000 and 3000 series showed negative profitability despite contributing to significant sales volume — indicating pricing or cost issues
 - Despite positive sales trends, some products show negative gross profit trends, which require immediate review to prevent margin erosion
 
