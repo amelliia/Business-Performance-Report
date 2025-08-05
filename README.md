@@ -21,7 +21,20 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 ## Product Performance
 ![](Prod_GIF.gif)
 ### Features 
--
+
+- Monitor product-level KPIs: sales, gross profit, profit margin, production cost, and YoY change
+
+- Break down performance by product category: Bikes, Accessories, Components, and Clothing
+
+- Track month-over-month (MoM) changes to spot seasonal trends and anomalies
+
+- Identify top-performing and underperforming products by gross profit, sales and orders
+
+- Visualize sales vs. gross profit trends over time
+
+- Highlight products with declining performance
+
+Rank top 20 products by gross profit to understand sales contribution share
 -
 -
 
