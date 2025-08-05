@@ -23,23 +23,17 @@ Gross profit saw a dip from July to September, with recovery beginning in Octobe
 ### Features 
 
 - Monitor product-level KPIs: sales, gross profit, profit margin, production cost, and YoY change
-
 - Break down performance by product category: Bikes, Accessories, Components, and Clothing
-
 - Track month-over-month (MoM) changes to spot seasonal trends and anomalies
-
 - Identify top-performing and underperforming products by gross profit, sales and orders
-
 - Visualize sales vs. gross profit trends over time
-
 - Highlight products with declining performance
 
-Rank top 20 products by gross profit to understand sales contribution share
--
--
-
 ### Insights 
-
+- Accessories saw the most significant growth (+1163.92% YoY in gross profit), suggesting recent demand or pricing optimization
+- Components experienced a steep decline (-38.21%), signaling potential supply chain issues, pricing problems, or obsolescence
+- Products in the Touring-1000 and 3000 series showed negative profitability despite contributing to significant sales volume — indicating pricing or cost issues
+- Despite positive sales trends, some products show negative gross profit trends, which require immediate review to prevent margin erosion
 
 ## Customer Detail
 <img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/57f97a37-5981-4365-af09-2301010552cd" />
