@@ -1,4 +1,4 @@
-# Adventure Works Power Bi Project
+# Adventure Works Business Performance Report | Power Bi
 
 ## Overview
 ![](Overview_GIF.gif)
