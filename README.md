@@ -19,19 +19,23 @@
 
 ## Product Performance
 ![](Prod_GIF.gif)
+
 ### Features 
 
 - Monitor product-level KPIs: sales, gross profit, profit margin, production cost, and YoY change
 - Break down performance by product category: Bikes, Accessories, Components, and Clothing
 - Track month-over-month (MoM) changes to spot seasonal trends and anomalies
-- Identify top-performing and underperforming products by gross profit, sales and orders
+- Identify top-performing and underperforming products by gross profit, sales and order volume
 - Visualize sales vs. gross profit trends over time
 - Highlight products with declining performance
+- Filter and drill-through capabilities to explore performance by time period, country, or sales channel
 
 ### Insights 
+
 - Accessories saw the most significant growth (+1163.92% YoY in gross profit)and components experienced a steep decline (-38.21%)
-- Products in the Touring-1000 and 3000 series showed negative profitability despite contributing to significant sales volume — indicating pricing or cost issues
+- Products in the Touring-1000 and 3000 series showed negative profitability despite contributing to significant sales volume indicating pricing or cost issues
 - Despite positive sales trends, some products show negative gross profit trends, which require immediate review to prevent margin erosion
+- Several low-demand SKUs, like certain HL Touring Frame versions, deliver minimal sales and reduce profits, making them candidates for discontinuation
 
 ## Customer Detail
 <img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/57f97a37-5981-4365-af09-2301010552cd" />
@@ -39,10 +43,10 @@
 ### Features
 
 - Track customer-level KPIs: revenue, profit, order value, and repeat behavior
--Segment customers by value tier (Low, Medium, High) and purchase type (One-Time vs. Repeat) to compare performance, retention, and profitability
+- Segment customers by value tier (Low, Medium, High) and purchase type (One-Time vs. Repeat) to compare performance, retention, and profitability
 - Analyze churn rate, repeat purchase rate, and customer lifetime value trends over time
 - Identify and profile top customers, including their spend patterns and order frequency
-- Visualize cumulative customer growth over the fiscal period
+- Visualize cumulative and monthly customer growth across the fiscal period
 
 ### Insights
 - Majority of customers are low-value and one-time buyers. Repeat buyers tend to spend more per purchase. Focus on converting them to repeat buyers with loyalty programs or personalized offers
