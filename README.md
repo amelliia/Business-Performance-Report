@@ -39,9 +39,9 @@
 ### Features
 
 - Track customer-level KPIs: revenue, profit, order value, and repeat behavior
-- Segment customers by value tiers (Low, Medium, High) and purchase behavior (One-Time vs. Repeat)
-- Analyze churn and repeat rate trends over time
-- Identify top customers and their order behaviors
+-Segment customers by value tier (Low, Medium, High) and purchase type (One-Time vs. Repeat) to compare performance, retention, and profitability
+- Analyze churn rate, repeat purchase rate, and customer lifetime value trends over time
+- Identify and profile top customers, including their spend patterns and order frequency
 - Visualize cumulative customer growth over the fiscal period
 
 ### Insights
