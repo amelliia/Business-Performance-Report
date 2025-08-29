@@ -14,7 +14,7 @@
 - Top-performing countries in terms of gross profit growth include the United States and Australia
 - Bikes were the leading product category, generating $4.68M in gross profit, significantly outperforming other categories
 - Total gross profit for FY 2020 was $5.81M, a 56.62% increase YoY compared to $3.71M in FY 2019.
-  This growth was largely driven by the Internet sales channel, which saw a $4.10M increase in gross profit YoY. Reseller sales declined.
+  This growth was largely driven by the Internet sales channel, which saw a $4.10M increase in gross profit YoY
 - Order Growth: Orders surged to 23.52K in FY 2020, a 429.71% YoY increase from 4.44K showing more customers and higher sales activity
 - Multiple orders have negative gross profit suggesting pricing errors or high costs that need review
   
