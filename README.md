@@ -1,4 +1,4 @@
-# Adventure Works Business Performance Report | Power Bi
+# Business Performance Report | Power Bi
 
 ## Overview
 ![](Overview_GIF.gif)
