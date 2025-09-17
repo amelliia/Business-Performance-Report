@@ -1,6 +1,6 @@
 # Business Performance Report | Power Bi
 
-The purpose of this project is to use Power BI to provide a clear picture of Adventure Works business performance. By compbining sales, product and customer data into a single interactive dashboard, it makes it easier to spot trends, patterns, and potential issues that might otherwise go unnoticed.
+The purpose of this project is to use Power BI to provide a clear picture of Adventure Works business performance. By combining sales, product and customer data into a single interactive dashboard, it makes it easier to spot trends, patterns, and potential issues that might otherwise go unnoticed.
 
 ## Overview
 ![](Overview_GIF.gif)
