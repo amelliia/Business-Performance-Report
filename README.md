@@ -3,7 +3,7 @@
 The purpose of this project is to use Power BI to provide a clear picture of Adventure Works business performance. By combining sales, product and customer data into a single interactive dashboard, it makes it easier to spot trends, patterns, and potential issues that might otherwise go unnoticed.
 
 ## Overview
-![](Overview_GIF.gif)
+![Image](https://github.com/user-attachments/assets/4e57a416-cced-4af9-a893-90a7040a7534)
 
 ### Features
 - Track key performance indicators (KPIs) for gross profit, sales, orders, and profit margin
@@ -21,7 +21,7 @@ The purpose of this project is to use Power BI to provide a clear picture of Adv
 - Multiple orders have negative gross profit suggesting pricing errors or high costs that need review
   
 ## Product Performance
-![](Prod_GIF.gif)
+![Image](https://github.com/user-attachments/assets/1f6e3b2b-a05c-4211-ad63-197344ed4f29)
 
 ### Features 
 
