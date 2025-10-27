@@ -41,7 +41,7 @@ The purpose of this project is to use Power BI to provide a clear picture of Adv
 - Several low-demand SKUs deliver minimal sales and reduce profits, making them candidates for discontinuation
 
 ## Customer Detail
-<img width="1516" height="850" alt="Image" src="https://github.com/user-attachments/assets/57f97a37-5981-4365-af09-2301010552cd" />
+[CustomerDetail.pdf](https://github.com/user-attachments/files/23164053/CustomerDetail.pdf)
 
 ### Features
 
