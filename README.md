@@ -21,7 +21,7 @@ The purpose of this project is to use Power BI to provide a clear picture of Adv
 - Multiple orders have negative gross profit suggesting pricing errors or high costs that need review
   
 ## Product Performance
-![Image](https://github.com/user-attachments/assets/1f6e3b2b-a05c-4211-ad63-197344ed4f29)
+![Image](https://github.com/user-attachments/assets/b6abc5c9-16ec-4914-871a-c04542c584ea)
 
 ### Features 
 
