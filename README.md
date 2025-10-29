@@ -6,8 +6,8 @@ The purpose of this project is to use Power BI to provide a clear picture of Adv
 ![Image](https://github.com/user-attachments/assets/4e57a416-cced-4af9-a893-90a7040a7534)
 
 ### Features
-- Track key performance indicators (KPIs) for gross profit, sales, orders, and profit margin
-- Compare sales, gross profit, and order volume across different sales channels, countries, and product categories
+- Track key performance indicators (KPIs) for gross profit, sales, orders and profit margin
+- Compare sales, gross profit, and order volume across different sales channels, countries and product categories
 - Analyze country-wise and product-category-wise profit trends
 - Identify high- and low-performing orders and time periods
 - Display year-over-year (YoY) changes to track growth and performance trends over time
