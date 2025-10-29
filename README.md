@@ -25,8 +25,8 @@ The purpose of this project is to use Power BI to provide a clear picture of Adv
 
 ### Features 
 
-- Monitor product-level KPIs: sales, gross profit, profit margin, production cost, and YoY change
-- Break down performance by product category: Bikes, Accessories, Components, and Clothing
+- Monitor product-level KPIs: sales, gross profit, profit margin, production cost and YoY change
+- Break down performance by product category: Bikes, Accessories, Components and Clothing
 - Track month-over-month (MoM) changes to spot seasonal trends and anomalies
 - Identify top-performing and underperforming products by gross profit, sales and order volume
 - Visualize sales vs. gross profit trends over time
@@ -37,23 +37,23 @@ The purpose of this project is to use Power BI to provide a clear picture of Adv
 
 - Accessories saw the most significant growth (+1335.27% YoY in gross profit)and components experienced a steep decline (-35.86%)
 - Products in the Touring-1000 and 3000 series showed negative profitability despite contributing to significant sales volume indicating pricing or production cost issues
-- Despite positive sales trends, some products show negative gross profit trends, which require immediate review to prevent margin erosion
-- Several low-demand SKUs deliver minimal sales and reduce profits, making them candidates for discontinuation
+- Despite positive sales trends some products show negative gross profit trends, which require immediate review to prevent margin erosion
+- Several low-demand SKUs deliver minimal sales and reduce profits which makes them candidates for discontinuation
 
 ## Customer Detail
 <img width="1406" height="788" alt="Image" src="https://github.com/user-attachments/assets/520bd365-1746-486f-846f-cf1dbf5136dc" />
 
 ### Features
 
-- Track customer-level KPIs: revenue, profit, order value, and repeat behavior
-- Segment customers by value tier (Low, Medium, High) and purchase type (One-Time vs. Repeat) to compare performance, retention, and profitability
-- Analyze churn rate, repeat purchase rate, and customer lifetime value trends over time
+- Track customer-level KPIs: revenue, profit, order value and repeat behavior
+- Segment customers by value tier (Low, Medium, High) and purchase type (One-Time vs. Repeat) to compare performance, retention and profitability
+- Analyze churn rate, repeat purchase rate and customer lifetime value trends over time
 - Identify and profile top customers, including their spend patterns and order frequency
 - Visualize cumulative and monthly customer growth across the fiscal period
 
 ### Insights
 - Majority of customers are low-value, one-time buyers, while repeat buyers spend more per transaction. Prioritize converting one-time buyers into repeat customers through loyalty programs or personalized offers
-- Revenue per customer is relatively high ($2,945), but gross profit per customer is low ($329.69), meaning margins are thin (11.19%) which imply high cost of goods sold (COGS)
-- Monthly unique customers hover around 1.5–2.2k, with a cumulative total of about 20k by June—suggesting retention is steady
-- Cumulative Customers consistently increased, indicating steady acquisition
+- Revenue per customer is relatively high ($2,945) but gross profit per customer is low ($329.69), meaning margins are thin (11.19%) which imply high cost of goods sold (COGS)
+- Monthly unique customers hover around 1.5–2.2k with a cumulative total of about 20k by June—suggesting retention is steady
+- Cumulative Customers consistently increased indicating steady acquisition
 - Total Customers show some fluctuation, possibly due to churn and seasonal changes
